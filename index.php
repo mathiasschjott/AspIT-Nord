@@ -9,18 +9,21 @@
 </head>
 <body>
 	<header>
-	<nav>
-		<ul>En dejlig ul</ul>
-		<ul></ul>
-	</nav>		
+		<img src="" alt="">
+		<nav>
+			<ul></ul>
+			<ul></ul>
+		</nav>	
 	</header>	
-	<div id="slider"></div>
-	<div id="sponsor"></div>
-	<main></main>
-	<h1>Mega awesome titel</h1>
+	<div id="slider">
+		
+	</div>
+	<div id="sponsor">
+		
+	</div>
+	<main>
+		
+	</main>
 	<script src="js/script.js"></script>
-	<div class="hest"></div>
-	<div class="hest2"></div>
-	<div class="hest3"></div>
 </body>
 </html>
