@@ -21,5 +21,6 @@
 	<script src="js/script.js"></script>
 	<div class="hest"></div>
 	<div class="hest2"></div>
+	<div class="hest3"></div>
 </body>
 </html>
