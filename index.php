@@ -64,17 +64,23 @@
 	<div id="sponsor">
 		
 	</div>
-	<div id="?">
+	<div id="quick-info">
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-4">
-
+					<h3>Billund Idrætscenter</h3>
+					<h4>Kærvej 501</h4>
+					<h4>7190 Billund</h4>
 				</div>
 				<div class="col-sm-4">
-
+					<h3>Billund Idrætscenter</h3>
+					<h4>Kærvej 501</h4>
+					<h4>7190 Billund</h4>
 				</div>
 				<div class="col-sm-4">
-
+					<h3>Billund Idrætscenter</h3>
+					<h4>Kærvej 501</h4>
+					<h4>7190 Billund</h4>
 				</div>
 			</div>
 		</div>
