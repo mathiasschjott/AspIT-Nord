@@ -19,6 +19,6 @@
 	<main></main>
 	<h1>Mega awesome titel</h1>
 	<script src="js/script.js"></script>
-	<div class="hest"></div>
+	<div class="hest">Noget med hest</div>
 </body>
 </html>
