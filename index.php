@@ -19,5 +19,6 @@
 	<main></main>
 	<h1>Mega awesome titel</h1>
 	<script src="js/script.js"></script>
+	<div class="hest"></div>
 </body>
 </html>
