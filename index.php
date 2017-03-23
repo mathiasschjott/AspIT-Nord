@@ -7,13 +7,17 @@
 </head>
 <body>
 	<header>
-		<div class="container">
-			<img src="" alt="">
-			<nav class="navbar navbar-inverse">
-				<div class="container-fluid">
-					<div class="navbar-header">
-						<a class="navbar-brand" href="">Dansk Netparty</a>
-					</div>
+		<nav class="navbar navbar-inverse navbar-fixed-top">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a href="https://dansknetparty.dk"><img src="https://dansknetparty.dk/booking/img/logo.png"></a>
+				</div>
+				<div class="collapse navbar-collapse">
 					<ul class="nav navbar-nav">
 						<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Information <span class="caret"></span></a>
 							<ul class="dropdown-menu">
@@ -53,19 +57,19 @@
 						<li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Log ind</a></li>
 					</ul>
 				</div>
-			</nav>
+			</div>
+		</nav>
+	</header>
+	<main class="container">
+		<div id="slider">
+			<h1>Meget flot titel</h1>
+			<h3>Køb for satan, køb!</h3>
+			<a href="#" class="btn btn-info" role="button">Tilmeld dig</a>
 		</div>
-	</header>	
-	<div id="slider" class="text-center">
-		<h1>Meget flot titel</h1>
-		<h3>Køb for satan, køb!</h3>
-		<a href="#" class="btn btn-info" role="button">Tilmeld dig</a>
-	</div>
-	<div id="sponsor">
-		
-	</div>
-	<div id="quick-info">
-		<div class="container">
+		<section id="sponsor">
+			
+		</section>
+		<section id="quick-info">
 			<div class="row">
 				<div class="col-sm-4">
 					<h3>Billund Idrætscenter</h3>
@@ -83,11 +87,12 @@
 					<h4>7190 Billund</h4>
 				</div>
 			</div>
-		</div>
-	</div>
-	<main>
+		</section>
 		
 	</main>
+	<footer>
+		
+	</footer>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<script src="js/script.js"></script>
