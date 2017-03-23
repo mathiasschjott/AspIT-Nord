@@ -67,7 +67,18 @@
 			<a href="#" class="btn btn-info" role="button">Tilmeld dig</a>
 		</div>
 		<section id="sponsor">
-			
+			<a href="">
+				<img src="img/stofa.png" alt="">
+			</a>
+			<a href="">
+				<img src="img/coolermaster.png" alt="">
+			</a>
+			<a href="">
+				<img src="img/hungry.png" alt="">
+			</a>
+			<a href="">
+				<img src="img/lalandia.png" alt="">
+			</a>
 		</section>
 		<section id="quick-info">
 			<div class="row">
