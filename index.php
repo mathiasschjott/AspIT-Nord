@@ -63,9 +63,11 @@
 	</header>
 	<main class="container">
 		<div id="slider">
-			<h1>Meget flot titel</h1>
-			<h3>Køb for satan, køb!</h3>
-			<a href="#" class="btn btn-info" role="button">Tilmeld dig</a>
+			<div class="text-center">
+				<h1>Meget flot titel</h1>
+				<h3>Køb for satan, køb!</h3>
+				<a href="#" class="btn btn-info" role="button">Tilmeld dig</a>
+			</div>
 		</div>
 		<section id="sponsor">
 			<a href="">
