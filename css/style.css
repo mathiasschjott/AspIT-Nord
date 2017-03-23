@@ -30,7 +30,7 @@ img {
 }
 
 #slider {
-	background-image: url('../img/banner2.jpg');
+	background: url('../img/banner2.jpg') center center;
 	background-size: cover;
 	height: 500px;
 }
