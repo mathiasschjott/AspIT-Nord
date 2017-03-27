@@ -4,6 +4,7 @@
 	<meta charset="UTF-8">
 	<title>Dansk Netparty</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -16,7 +17,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a href="https://dansknetparty.dk"><img src="https://dansknetparty.dk/booking/img/logo.png"></a>
+					<a href="https://dansknetparty.dk"><img src="img/logo.png"></a>
 				</div>
 				<div class="collapse navbar-collapse">
 					<ul class="nav navbar-nav">
@@ -55,7 +56,7 @@
 					</ul>
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="#">Tilmeld</a></li>
-						<li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Log ind</a></li>
+						<li><a href="#">Log ind <span class="glyphicon glyphicon-log-in"></span></a></li>
 					</ul>
 				</div>
 			</div>
@@ -63,49 +64,96 @@
 	</header>
 	<main class="container">
 		<div id="slider">
-			<div class="text-center">
+			<div id="slider-content" style="display: none;">
 				<h1>Meget flot titel</h1>
 				<h3>Køb for satan, køb!</h3>
-				<a href="#" class="btn btn-info" role="button">Tilmeld dig</a>
+				<a href="#" class="btn btn-info" role="button">Køb billet</a>
 			</div>
 		</div>
 		<section id="sponsor">
-			<a href="">
-				<img src="img/stofa.png" alt="">
-			</a>
-			<a href="">
-				<img src="img/coolermaster.png" alt="">
-			</a>
-			<a href="">
-				<img src="img/hungry.png" alt="">
-			</a>
-			<a href="">
-				<img src="img/lalandia.png" alt="">
-			</a>
+				<a href="">
+					<img src="img/stofa.png" alt="">
+				</a>
+				<a href="">
+					<img src="img/coolermaster.png" alt="">
+				</a>
+				<a href="">
+					<img src="img/hungry.png" alt="">
+				</a>
+				<a href="">
+					<img src="img/lalandia.png" alt="">
+				</a>
+				<a href="">
+					<img src="img/webdanes.png" alt="">
+				</a>
+				<a href="">
+					<img src="img/sandberg.png" alt="">
+				</a>
+				<a href="">
+					<img src="img/fanxhosting.png" alt="">
+				</a>
+				<a href="">
+					<img src="img/av-cables.png" alt="">
+				</a>
 		</section>
 		<section id="quick-info">
 			<div class="row">
-				<div class="col-sm-4">
-					<h3>Billund Idrætscenter</h3>
-					<h4>Kærvej 501</h4>
-					<h4>7190 Billund</h4>
+				<div class="col-md-4">
+					<div class="quick-info-item">
+						<div class="angled-bg">
+							<h3>Billund Idrætscenter</h3>
+							<h4>Kærvej 501</h4>
+							<h4>7190 Billund</h4>
+						</div>
+					</div>
 				</div>
-				<div class="col-sm-4">
-					<h3>Billund Idrætscenter</h3>
-					<h4>Kærvej 501</h4>
-					<h4>7190 Billund</h4>
+				<div class="col-md-4">
+					<div class="quick-info-item">
+						<div class="angled-bg">
+							<h3>Billund Idrætscenter</h3>
+							<h4>Kærvej 501</h4>
+							<h4>7190 Billund</h4>
+						</div>
+					</div>
 				</div>
-				<div class="col-sm-4">
-					<h3>Billund Idrætscenter</h3>
-					<h4>Kærvej 501</h4>
-					<h4>7190 Billund</h4>
+				<div class="col-md-4">
+					<div class="quick-info-item">
+						<div class="angled-bg">
+							<h3>Billund Idrætscenter</h3>
+							<h4>Kærvej 501</h4>
+							<h4>7190 Billund</h4>
+						</div>
+					</div>
 				</div>
 			</div>
 		</section>
-		
+		<section id="blog">
+			<div class="row">
+				<div class="col-md-6">
+					<article>
+						<h3>Billeder fra DNP #7</h3>
+						<p>Så er billederne fra DNP #7 klar! Se om du kan finde dig og dine venner på billederne. Vi fra Dansk Netparty vil gerne sige tak for et godt arrangement!</p>
+						<p>Billederne kan du se her:</p>
+						<a href="https://dansknetparty.dk/galleri/dansk-netparty-7/">https://dansknetparty.dk/galleri/dansk-netparty-7/</a>
+					</article>
+				</div>
+				<div class="col-md-6">
+					<article>
+						<h3>Billeder fra DNP #7</h3>
+						<p>Så er billederne fra DNP #7 klar! Se om du kan finde dig og dine venner på billederne. Vi fra Dansk Netparty vil gerne sige tak for et godt arrangement!</p>
+						<p>Billederne kan du se her:</p>
+						<a href="https://dansknetparty.dk/galleri/dansk-netparty-7/">https://dansknetparty.dk/galleri/dansk-netparty-7/</a>
+					</article>
+				</div>
+			</div>
+		</section>
 	</main>
 	<footer>
-		
+		<div id="copyright">
+			<div class="container">
+				<p>Foreningen: Dansk Netparty - CVR: 36679476. All rights reserved - 2013 - 2017.</p>
+			</div>
+		</div>
 	</footer>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
