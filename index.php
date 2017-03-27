@@ -71,7 +71,38 @@
 			</div>
 		</div>
 		<section id="sponsor">
-				<a href="">
+			<div class="col-md-12">
+				<div class="carousel slide multi-item-carousel" id="theCarousel">
+					<div class="carousel-inner">
+						<div class="item active">
+							<div class="col-xs-4"><a href="#1"><img src="img/stofa.png" class="text-center"></a></div>
+						</div>
+						<div class="item">
+							<div class="col-xs-4"><a href="#1"><img src="img/coolermaster.png" class="text-center"></a></div>
+						</div>
+						<div class="item">
+							<div class="col-xs-4"><a href="#1"><img src="img/hungry.png" class="text-center"></a></div>
+						</div>
+						<div class="item">
+							<div class="col-xs-4"><a href="#1"><img src="img/lalandia.png" class="text-center"></a></div>
+						</div>
+						<div class="item">
+							<div class="col-xs-4"><a href="#1"><img src="img/webdanes.png" class="text-center"></a></div>
+						</div>
+						<div class="item">
+							<div class="col-xs-4"><a href="#1"><img src="img/sandberg.png" class="text-center"></a></div>
+						</div>
+						<div class="item">
+							<div class="col-xs-4"><a href="#1"><img src="img/fanxhosting.png" class="text-center"></a></div>
+						</div>
+						<div class="item">
+							<div class="col-xs-4"><a href="#1"><img src="img/av-cables.png" class="text-center"></a></div>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+				<!-- <a href="">
 					<img src="img/stofa.png" alt="">
 				</a>
 				<a href="">
@@ -94,69 +125,69 @@
 				</a>
 				<a href="">
 					<img src="img/av-cables.png" alt="">
-				</a>
-		</section>
-		<section id="quick-info">
-			<div class="row">
-				<div class="col-md-4">
-					<div class="quick-info-item">
-						<div class="angled-bg">
-							<h3>Billund Idrætscenter</h3>
-							<h4>Kærvej 501</h4>
-							<h4>7190 Billund</h4>
+				</a> -->
+			</section>
+			<section id="quick-info">
+				<div class="row">
+					<div class="col-md-4">
+						<div class="quick-info-item">
+							<div class="angled-bg">
+								<h3>Billund Idrætscenter</h3>
+								<h4>Kærvej 501</h4>
+								<h4>7190 Billund</h4>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="quick-info-item">
+							<div class="angled-bg">
+								<h3>Billund Idrætscenter</h3>
+								<h4>Kærvej 501</h4>
+								<h4>7190 Billund</h4>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="quick-info-item">
+							<div class="angled-bg">
+								<h3>Billund Idrætscenter</h3>
+								<h4>Kærvej 501</h4>
+								<h4>7190 Billund</h4>
+							</div>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-4">
-					<div class="quick-info-item">
-						<div class="angled-bg">
-							<h3>Billund Idrætscenter</h3>
-							<h4>Kærvej 501</h4>
-							<h4>7190 Billund</h4>
-						</div>
+			</section>
+			<section id="blog">
+				<div class="row">
+					<div class="col-md-6">
+						<article>
+							<h3>Billeder fra DNP #7</h3>
+							<p>Så er billederne fra DNP #7 klar! Se om du kan finde dig og dine venner på billederne. Vi fra Dansk Netparty vil gerne sige tak for et godt arrangement!</p>
+							<p>Billederne kan du se her:</p>
+							<a href="https://dansknetparty.dk/galleri/dansk-netparty-7/">https://dansknetparty.dk/galleri/dansk-netparty-7/</a>
+						</article>
+					</div>
+					<div class="col-md-6">
+						<article>
+							<h3>Billeder fra DNP #7</h3>
+							<p>Så er billederne fra DNP #7 klar! Se om du kan finde dig og dine venner på billederne. Vi fra Dansk Netparty vil gerne sige tak for et godt arrangement!</p>
+							<p>Billederne kan du se her:</p>
+							<a href="https://dansknetparty.dk/galleri/dansk-netparty-7/">https://dansknetparty.dk/galleri/dansk-netparty-7/</a>
+						</article>
 					</div>
 				</div>
-				<div class="col-md-4">
-					<div class="quick-info-item">
-						<div class="angled-bg">
-							<h3>Billund Idrætscenter</h3>
-							<h4>Kærvej 501</h4>
-							<h4>7190 Billund</h4>
-						</div>
-					</div>
+			</section>
+		</main>
+		<footer>
+			<div id="copyright">
+				<div class="container">
+					<p>Foreningen: Dansk Netparty - CVR: 36679476. All rights reserved - 2013 - 2017.</p>
 				</div>
 			</div>
-		</section>
-		<section id="blog">
-			<div class="row">
-				<div class="col-md-6">
-					<article>
-						<h3>Billeder fra DNP #7</h3>
-						<p>Så er billederne fra DNP #7 klar! Se om du kan finde dig og dine venner på billederne. Vi fra Dansk Netparty vil gerne sige tak for et godt arrangement!</p>
-						<p>Billederne kan du se her:</p>
-						<a href="https://dansknetparty.dk/galleri/dansk-netparty-7/">https://dansknetparty.dk/galleri/dansk-netparty-7/</a>
-					</article>
-				</div>
-				<div class="col-md-6">
-					<article>
-						<h3>Billeder fra DNP #7</h3>
-						<p>Så er billederne fra DNP #7 klar! Se om du kan finde dig og dine venner på billederne. Vi fra Dansk Netparty vil gerne sige tak for et godt arrangement!</p>
-						<p>Billederne kan du se her:</p>
-						<a href="https://dansknetparty.dk/galleri/dansk-netparty-7/">https://dansknetparty.dk/galleri/dansk-netparty-7/</a>
-					</article>
-				</div>
-			</div>
-		</section>
-	</main>
-	<footer>
-		<div id="copyright">
-			<div class="container">
-				<p>Foreningen: Dansk Netparty - CVR: 36679476. All rights reserved - 2013 - 2017.</p>
-			</div>
-		</div>
-	</footer>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	<script src="js/script.js"></script>
-</body>
-</html>
+		</footer>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<script src="js/script.js"></script>
+	</body>
+	</html>
